@@ -1,8 +1,8 @@
 {
-  "name": "react-bootstrap-typeahead",
+  "name": "@codemayonnaise/react-bootstrap-typeahead",
   "version": "3.4.8",
   "description": "React typeahead with Bootstrap styling",
-  "author": "ericgio",
+  "author": "codemayonnaise",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
@@ -118,7 +118,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ericgio/react-bootstrap-typeahead.git"
+    "url": "https://github.com/codemayonnaise/react-bootstrap-typeahead.git"
   },
-  "bugs": "https://github.com/ericgio/react-bootstrap-typeahead/issues"
+  "bugs": "https://github.com/codemayonnaise/react-bootstrap-typeahead/issues"
 }
