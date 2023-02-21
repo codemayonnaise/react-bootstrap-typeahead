@@ -118,7 +118,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/codemayonnaise/react-bootstrap-typeahead.git"
+    "url": "git+https://github.com/codemayonnaise/react-bootstrap-typeahead.git"
   },
-  "bugs": "https://github.com/codemayonnaise/react-bootstrap-typeahead/issues"
+  "bugs": {
+    "url": "https://github.com/codemayonnaise/react-bootstrap-typeahead/issues"
+  },
+  "homepage": "https://github.com/codemayonnaise/react-bootstrap-typeahead#readme",
+  "directories": {
+    "doc": "docs",
+    "example": "example",
+    "test": "test"
+  }
 }
