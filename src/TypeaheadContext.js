@@ -1,5 +1,5 @@
 import {noop, pick} from 'lodash';
-import createReactContext from 'create-react-context';
+import createReactContext from '@codemayonnaise/create-react-context';
 import React from 'react';
 
 const TypeaheadContext = createReactContext({
